@@ -1,7 +1,7 @@
 # Vital Link: AI-Driven Healthcare Chatbot
 
 ## Project Overview
-[Brief description of your healthcare chatbot]
+ An AI chatbot that can diagnos your disease based on the provided symptoms that has been given.
 
 ## Clone the repository
 ```bash
