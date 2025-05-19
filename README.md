@@ -13,7 +13,7 @@ Due to GitHub's file size limits, the required data files are available on Googl
 
 - [Download `Vital-Link.zip` from Google Drive](https://drive.google.com/drive/folders/13G1gldDqOA4AnGrrN8aXxthr57t4RskN?usp=drive_link)
 
-After downloading, extract the zip file and place the contents in the appropriate directories.
+After downloading, extract the zip file and open the file directly in your IDE.
 
 ## Setup Instructions
 
