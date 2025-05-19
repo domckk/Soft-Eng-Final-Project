@@ -5,7 +5,7 @@
 
 ## Clone the repository
 ```bash
-git clone https://github.com/Clyde-Morales/vital-link.git
+git clone https://github.com/domckk/vital-link.git
 ```
 
 ## Large Dataset/File
